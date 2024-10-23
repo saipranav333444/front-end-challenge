@@ -1,5 +1,6 @@
 .success-message{
     display: none;
+    text-align: center;
 }
 
 #contact-form{
