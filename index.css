@@ -1,0 +1,9 @@
+.success-message{
+    display: none;
+}
+
+#contact-form{
+    text-align: center;
+    margin-top: 300px;
+    font-family: 'roboto';
+}
